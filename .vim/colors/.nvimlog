@@ -1,0 +1,4 @@
+WARN  2021-09-04T15:31:37.643 19467 log_path_init:96: Failed to create directory /Users/HSO/.cache/nvim for writing logs: Unknown system error 1
+WARN  2021-09-04T15:33:07.239 19656 log_path_init:96: Failed to create directory /Users/HSO/.cache/nvim for writing logs: Unknown system error 1
+WARN  2021-09-04T15:33:50.760 19901 log_path_init:96: Failed to create directory /Users/HSO/.cache/nvim for writing logs: Unknown system error 1
+WARN  2021-09-04T15:34:25.433 20746 log_path_init:96: Failed to create directory /Users/HSO/.cache/nvim for writing logs: Unknown system error 1
